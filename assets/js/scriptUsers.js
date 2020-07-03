@@ -1,1 +1,0 @@
-$("#main-table").find('tbody').append("<tr><td>ayanami01</td><td>ayanami rei</td><td>ayanami01@nerv.com</td><td>30</td><td>10:00 PM</td></tr>");
